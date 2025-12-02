@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Lonely in Gorgeous",
+  "base_artist": "Tommy february6",
+  "createdAt": "2025-12-02T18:31:25.647073Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "_Lonely in Gorgeous_",
+      "artist": "Tommy february6",
+      "has_synced": false,
+      "path": "select/01_Lonely_in_Gorgeous_Tommy_february6.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lonely In Gorgeous",
+      "artist": "Tommy february6",
+      "has_synced": true,
+      "path": "select/02_Lonely_In_Gorgeous_Tommy_february6.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lonely In Gorgeous (Original Instrumental)",
+      "artist": "Tommy february6",
+      "has_synced": true,
+      "path": "select/03_Lonely_In_Gorgeous_(Original_Instrumental)_Tommy_february6.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lonely in Gorgeous (Instrumental)",
+      "artist": "Tommy February6",
+      "has_synced": false,
+      "path": "select/04_Lonely_in_Gorgeous_(Instrumental)_Tommy_February6.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lonely in Gorgeous",
+      "artist": "Tommy february6",
+      "has_synced": true,
+      "path": "select/05_Lonely_in_Gorgeous_Tommy_february6.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "♥Lonely in Gorgeous♥",
+      "artist": "Tommy february⁶",
+      "has_synced": true,
+      "path": "select/06_♥Lonely_in_Gorgeous♥_Tommy_february6.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "♥Lonely in Gorgeous♥",
+      "artist": "Tommy february⁶",
+      "has_synced": true,
+      "path": "select/07_♥Lonely_in_Gorgeous♥_Tommy_february6.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "♥Lonely in Gorgeous♥",
+      "artist": "Tommy February6",
+      "has_synced": true,
+      "path": "select/08_♥Lonely_in_Gorgeous♥_Tommy_February6.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lonely in Gorgeous",
+      "artist": "Tommy february",
+      "has_synced": true,
+      "path": "select/09_Lonely_in_Gorgeous_Tommy_february.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "♥Lonely in Gorgeous♥",
+      "artist": "Tommy february6",
+      "has_synced": true,
+      "path": "select/10_♥Lonely_in_Gorgeous♥_Tommy_february6.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "■Lonely in Gorgeous■",
+      "artist": "Tommy February6",
+      "has_synced": true,
+      "path": "select/11_■Lonely_in_Gorgeous■_Tommy_February6.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Lonely in Gorgeous (Paradise Kiss Op Theme)",
+      "artist": "Charm",
+      "has_synced": false,
+      "path": "select/12_Lonely_in_Gorgeous_(Paradise_Kiss_Op_Theme)_Charm.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Lonely in Gorgeous (Paradise Kiss)",
+      "artist": "Mari Kodama",
+      "has_synced": false,
+      "path": "select/13_Lonely_in_Gorgeous_(Paradise_Kiss)_Mari_Kodama.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Lonely In Gorgeous",
+      "artist": "Tommy February6",
+      "has_synced": true,
+      "path": "select/14_Lonely_In_Gorgeous_Tommy_February6.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Lonely in Gorgeous",
+      "artist": "7co",
+      "has_synced": false,
+      "path": "select/15_Lonely_in_Gorgeous_7co.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Lonely in Gorgeous (Paradise Kiss)",
+      "artist": "児玉マリ",
+      "has_synced": false,
+      "path": "select/16_Lonely_in_Gorgeous_(Paradise_Kiss)_児玉マリ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lonely in Gorgeous",
+      "artist": "Tommy february6",
+      "has_synced": false,
+      "path": "select/pl_01_Lonely_in_Gorgeous_Tommy_february6.txt"
+    }
+  ]
+}
